@@ -1,0 +1,43 @@
+/* container ko center pe lana hai */
+.container{
+
+    /* border: 1px solid red; */
+    text-align: center;
+    margin-top: 10px;
+    
+    
+}
+
+table{
+    margin: auto;
+    
+}
+button:hover{
+    background-color:blue;
+    color: rgb(128, 0, 49);
+}
+/* input block */
+input{
+    font-size: 20px;
+    border: 4px solid black;
+    border-radius: 20px;
+    height: 40px;
+
+}
+
+button{
+    font-size: 35px;
+    color: black;
+    background-color: rgb(15, 191, 68);
+    height: 65px;
+    width: 65px;
+    border-radius: 15px;
+    display: inline-block;
+}
+/* html me eska class bna hai jo ki input se pahle hai */
+.calculator{
+    background-color: red;
+    border-radius: 20px;
+    border: 2px solid black;
+    display: inline-block;
+}
